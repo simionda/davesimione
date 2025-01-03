@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello World on Dave Simione</title>
+    <link>http://localhost:1313/tags/hello-world/</link>
+    <description>Recent content in Hello World on Dave Simione</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Jan 2025 16:43:58 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hello-world/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started</title>
+      <link>http://localhost:1313/blogs/2025/gettingstarted/</link>
+      <pubDate>Fri, 03 Jan 2025 16:43:58 +0530</pubDate>
+      <guid>http://localhost:1313/blogs/2025/gettingstarted/</guid>
+      <description>&lt;p&gt;Well, I&amp;rsquo;m finally doing it.  Starting a blog.  I&amp;rsquo;ve wanted to do it for years now, and never have.  What changed?  For one, it&amp;rsquo;s a new year - 2025.  For two, at the end of 2024, I saw a YouTube video from Network Chuck (TODO - link to video) about how to do this.  And three, the past year has been a journey of mental health for me, and my therapist and my newfound guide - Stoicism - both encourage writing and journaling.  With all of those thing, how could I say no?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

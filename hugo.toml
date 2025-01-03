@@ -1,0 +1,4 @@
+baseURL = 'https://davesimione.com/'
+languageCode = 'en-us'
+title = 'Dave Simione'
+theme = 'hugo-profile'
